@@ -4,9 +4,10 @@ import  pandas as pd
 def data_cleaning(data):
     # drop unused columns
     data_clean=data.drop(['arrest_key','pd_desc','law_code','perp_race','jurisdiction_code',
-               ':@computed_region_f5dn_yrer',':@computed_region_yeji_bk3q',
-               ':@computed_region_92fq_4b7q',':@computed_region_sbqj_enih'],axis=1,inplace=True)
-    
+            ':@computed_region_f5dn_yrer',':@computed_region_yeji_bk3q',
+            ':@computed_region_92fq_4b7q',':@computed_region_sbqj_enih',
+            'Unnamed: 0','latitude','longitude'],axis=1,inplace=True)
+
     # drop any rows with nulls
     data_clean=data.dropna()
     
