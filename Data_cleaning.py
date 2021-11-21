@@ -17,7 +17,7 @@ def data_cleaning(data):
     data_clean.sort_values(by=['arrest_date'], inplace=True)
     
     # rename columns
-    data_clean=data.rename(columns={'ofns_name' : 'name',
+    data_clean=data.rename(columns={'ofns_desc' : 'offense',
                              'law_cat_cd':'offense_level'})
     
     # rename cell values
