@@ -65,4 +65,4 @@ Describe the contributions that each group member made.
   - Report: Future work
 - Zeal Patel:
   - Visualizations: Number of arrests per year by sex, Number of arrests per year by age group
-  - Report: Challenges
+  - Report: Challenges & data dictionary
