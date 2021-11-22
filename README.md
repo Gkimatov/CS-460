@@ -59,7 +59,7 @@ Describe the contributions that each group member made.
 - All: Cleaned data in `Data_cleaning.py`
 - Greg Kimatov:
   - Visualizations: Top 10 offenses by borough
-  - Report: Exploratory analysis
+  - Report: Exploratory analysis & challenges
 - Mehedi Shohag:
   - Visualizations: Number of arrrests per year, Number of arrests per year by borough, Number of arrests by borough and offense level
   - Report: Future work
