@@ -1,0 +1,2 @@
+arrest_date,offense,offense_level,age_group,perp_sex,arrest_boro,arrest_precinct
+Date of the arrest,Description of the offense,Level of the violence,Age group the perp falls into,Sex of the perp,Borough the perp was arrested in,Precinct number that made the arrest
