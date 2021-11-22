@@ -16,24 +16,12 @@ For example:
 
 - `data`
   - `NYC_crime.csv`: Raw data from Kaggle. Uploaded to google drive. [Find here](https://drive.google.com/file/d/1GNcjWlVpo_xpf1jSCaylVzF3Udc7PmkA/view?usp=sharing)
-  - `NYC_data_clean.csv`: The cleaned data. Uploaded to google drive. [Find here](https://drive.google.com/uc?id=1es5kvNIhxMnw0nSFrWAZskxiVECzkvkG)
+  - `NYC_data_clean.csv`: The cleaned data. Uploaded to google drive. [Find here](https://drive.google.com/file/d/1KULQlBHtp-Fbcdy8zANkabB9R575ePD-/view?usp=sharing)
   - `data_dictionary.csv`: The data dictionary for cleaned.
 - `code`
   - `Data_cleaning.py`: Cleans `NYC_crime.csv`
 - `Notebooks`
   - `460_Data_Visualization.ipynb`: Jupyter notebook to visualize cleaned data
-
-### Data dictionary
-
-Data dicitionary of the clean data
-
-- arrest_date: Date of the arrest
-- offense: Description of the offense
-- offense_level: Level of the offense (Felony, Misdemeanor, Violation, Infraction)
-- age_group: Age group the perp falls into (<18, 18-24, 25-44, 45-64, 65+)
-- perp_sex: Sex of the perp (M, F)
-- arrest_borough: Borough the perp was arrested in (Manhattan, Brooklyn, Bronx, Queens, Staten Island)
-- arrest_precinct: Precinct number that made the arrest
 
 ### Exploratory Analysis
 
