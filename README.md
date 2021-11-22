@@ -23,6 +23,18 @@ For example:
 - `Notebooks`
   - `460_Data_Visualization.ipynb`: Jupyter notebook to visualize cleaned data
 
+### Data dictionary
+
+Data dicitionary of the clean data
+
+- arrest_date: Date of the arrest
+- offense: Description of the offense
+- offense_level: Level of the offense (Felony, Misdemeanor, Violation, Infraction)
+- age_group: Age group the perp falls into (<18, 18-24, 25-44, 45-64, 65+)
+- perp_sex: Sex of the perp (M, F)
+- arrest_borough: Borough the perp was arrested in (Manhattan, Brooklyn, Bronx, Queens, Staten Island)
+- arrest_precinct: Precinct number that made the arrest
+
 ### Exploratory Analysis
 
 Describe what work you have done so far and include the code.
