@@ -1,6 +1,6 @@
 # CS-460
 
-# Final Project
+# NYC Crime Analysis and Prediction
 
 ### Group Members
 
