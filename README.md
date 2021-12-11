@@ -25,7 +25,7 @@
 
 - Greg Kimatov:
   - Model: Effect of annual GDP percent change in NYC on crime
-  - Blog Post: 
+  - Blog Post Sections: "Introduction", "Supplementary datasets", "Predicting the future crime rate based on annual GDP percent change in NYC", "Final Conclusions"
 - Mehedi Shohag:
   - Model: Effect of unemployment in NYC on crime
   - Blog Post:
