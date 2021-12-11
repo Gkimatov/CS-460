@@ -1,6 +1,5 @@
-# CS-460
-
 # NYC Crime Analysis and Prediction
+## Preliminary Analysis
 
 ### Group Members
 
