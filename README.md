@@ -19,7 +19,7 @@
 - `code`
   - `Data_cleaning.py`: Cleans `NYC_crime.csv`
   - `460_Data_Visualization.ipynb`: Includes descriptive graphs and charts
-  - `460_Models.ipynb`: Includes 3 linear regression models
+  - `460_Model.ipynb`: Includes 3 linear regression models
   
 ### Contributions After Preliminary Analysis
 
