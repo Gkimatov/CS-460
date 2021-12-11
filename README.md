@@ -20,7 +20,7 @@
   - `Data_cleaning.py`: Cleans `NYC_crime.csv`
   - `460_Data_Visualization.ipynb`: Includes descriptive graphs and charts
   - `460_Model.ipynb`: Includes 3 linear regression models
-  
+
 ### Contributions After Preliminary Analysis
 
 - Greg Kimatov:
@@ -31,5 +31,5 @@
   - Blog Post:
 - Zeal Patel:
   - Model: Year vs Arrests in NYC per 100k people (crime rate)
-  - Blog Post: 
-  
+  - Blog Post: "Primary Dataset", "Visualizing the data", "Predicting the future yearly crime rae"
+  - Presentation slides
