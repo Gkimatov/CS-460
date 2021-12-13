@@ -28,7 +28,7 @@
   - Blog Post Sections: "Introduction", "Supplementary datasets", "Predicting the future crime rate based on annual GDP percent change in NYC", "Final Conclusions"
 - Mehedi Shohag:
   - Model: Effect of unemployment in NYC on crime
-  - Blog Post:
+  - Blog Post: "Number of offense type in NYC by borough", "Predicting the future crime rate based on unemployment", "Future Work"
 - Zeal Patel:
   - Model: Year vs Arrests in NYC per 100k people (crime rate)
   - Blog Post: "Primary Dataset", "Visualizing the data", "Predicting the future yearly crime rae"
